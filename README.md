@@ -15,8 +15,11 @@ The data is from http://insideairbnb.com/get-the-data.html, the files are: calen
 In this project I conduct a descriptive analysis of the data sets using wrangling techniques, descriptive statistics and visualizations.
 
 Libraries:
+
 -Pandas
+
 -Matplotlib
+
 -Seaborn
 
 ### Acknowledgments
