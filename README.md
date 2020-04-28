@@ -21,12 +21,11 @@ In this [web app](https://cnegrelli-trial.herokuapp.com/) you can find a compari
 In this project I conduct a descriptive analysis of the data sets using wrangling techniques, descriptive statistics and visualizations.
 
 Libraries:
+- Pandas
+- Matplotlib
+- Seaborn
 
--Pandas
-
--Matplotlib
-
--Seaborn
+For the web app requirements see requirements.txt
 
 ### Acknowledgments
 This project is part of the Udacity's Data Science Nanodegree program.
